@@ -1,5 +1,5 @@
 # f1-data-analysis
-Many thanks to [Jasper](https://medium.com/@jaspervhat) for his very helpful tutorials and the incredibly useful [FastF1](https://github.com/theOehrly/Fast-F1)
+Many thanks to [Jasper](https://medium.com/@jaspervhat) for his very helpful tutorials.
 
 | Rd. | Grand Prix          | Sessions Analyzed | IPYNB                                                                                       |
 |-----|---------------------|-------------------|---------------------------------------------------------------------------------------------|
